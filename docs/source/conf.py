@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Chinese-libre-game-wiki'
+project = '中文自由或开源游戏维基'
 copyright = '2024, LS-Shandong'
 author = 'LS-Shandong'
 
