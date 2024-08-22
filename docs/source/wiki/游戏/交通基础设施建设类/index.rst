@@ -5,4 +5,4 @@
 
 .. toctree::
 
-   OpenTTD.md
+   OpenTTD/OpenTTD.md
