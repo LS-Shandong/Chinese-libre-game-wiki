@@ -14,7 +14,7 @@
 
 Libregamewiki 的目标是使内容尽可能准确。但是，由于任何人都可以编辑该网站，我们不保证 Libregamewiki 提供的信息的准确性。而本网站作为 Libregamewiki 的中文翻译，同样不保证本网站上提供的信息的准确性。
 
-Libregamewiki 和 LS 不对使用本网站的信息或因访问本网站而造成的任何形式的损害负责。
+Libregamewiki 和 LS-Shandong 不对使用本网站的信息或因访问本网站而造成的任何形式的损害负责。
 
 ## 许可证
 
