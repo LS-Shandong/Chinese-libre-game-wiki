@@ -3,11 +3,10 @@
 # -- Project information
 
 project = '中文自由或开源游戏维基'
-copyright = '除非另有声明，本网站内容采用 GNU Free Documentation License 1.2 授权。'
 author = 'LS-Shandong'
-
+copyright = '2024 Libregamewiki'
 release = '1.0'
-version = '1.0.2'
+version = '1.0.3'
 
 # -- General configuration
 

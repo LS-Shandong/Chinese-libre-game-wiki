@@ -1,6 +1,6 @@
-Template for the Read the Docs tutorial
+中文自由或开源游戏维基
 =======================================
 
-中文自由或开源游戏维基
+这是 Libregamewiki 的中文翻译站，正在开发中。
 
 通过提 issues 来请求参与翻译。
